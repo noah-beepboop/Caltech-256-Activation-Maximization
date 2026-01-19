@@ -1,6 +1,6 @@
 # Caltech-256-Activation-Maximization
 Optimizing images to maximize activation of output neurons of a classification model trained for the Caltech 256 dataset.
-\It is mainly lower-level features but still interesting.
+<br>It is mainly lower-level features but still interesting.
 
 In order to try it out download the latest release and make sure to set up the proper file paths.
 <br> If you just want to view some of the results check out the [Image Results](Image-Results) folder (I know the images are out of order).
