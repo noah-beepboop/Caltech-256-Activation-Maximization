@@ -6,4 +6,4 @@ In order to try it out download the latest release and make sure to set up the p
 If you just want to view some of the results check out the [Image Results](Image-Results) folder (I know the images are out of order).
 My favorite image is #18 which is the bowling pins. You can clearly discern the red horizontal stripes.
 
-![Bowling Pins](Image Results/18.png)
+![Bowling Pins](Image-Results/18.png)
