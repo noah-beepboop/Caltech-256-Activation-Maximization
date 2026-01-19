@@ -3,7 +3,7 @@ Optimizing images to maximize activation of output neurons of a classification m
 It is mainly lower-level features but still interesting.
 
 In order to try it out download the latest release and make sure to set up the proper file paths.
-If you just want to view some of the results check out the [Image Results](Image Results) folder
+If you just want to view some of the results check out the [Image Results](Image-Results) folder
 My favorite image is #18 which is the bowling pins. You can clearly discern the red horizontal stripes.
 
 !(Image Results/18.png)
